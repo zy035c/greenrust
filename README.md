@@ -1,4 +1,4 @@
-Green Thread (python greenlet) implemetation in Rust. 
+- Green Thread (python greenlet) implemetation in Rust. 
 = stackful coroutine
 
-rust实现绿色线程（有栈协程）
+- Rust实现绿色线程（有栈协程）
